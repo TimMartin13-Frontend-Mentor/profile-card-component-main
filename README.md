@@ -30,7 +30,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/profile-card-in-html-and-sass-qbMeNj4Q5)
-- Live Site URL: [Github pages](https://timmartin13.github.io/profile-card-component-main/)
+- Live Site URL: [Github pages](https://timmartin13-frontend-mentor.github.io/profile-card-component-main/)
 
 ## My process
 
